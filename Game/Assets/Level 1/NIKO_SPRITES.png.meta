@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: e6c26e9af18f9c646905ebf3cc469b9e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NIKO_SPRITES_2
+    21300002: NIKO_SPRITES_4
+    21300004: NIKO_SPRITES_5
+    21300006: NIKO_SPRITES_6
+    21300008: NIKO_SPRITES_7
+    21300010: NIKO_SPRITES_8
+    21300012: NIKO_SPRITES_9
+    21300014: NIKO_SPRITES_10
+    21300016: NIKO_SPRITES_11
+    21300018: NIKO_SPRITES_12
+    21300020: NIKO_SPRITES_13
+    21300022: NIKO_SPRITES_22
+    21300024: NIKO_SPRITES_23
+    21300026: NIKO_SPRITES_24
+    21300028: NIKO_SPRITES_25
+    21300030: NIKO_SPRITES_26
+    21300032: NIKO_SPRITES_27
+    21300034: NIKO_SPRITES_28
+    21300036: NIKO_SPRITES_29
+    21300038: NIKO_SPRITES_30
+    21300040: NIKO_SPRITES_31
+    21300042: NIKO_SPRITES_32
+    21300044: NIKO_SPRITES_30
+    21300046: NIKO_SPRITES_31
+    21300048: NIKO_SPRITES_32
+    21300050: NIKO_SPRITES_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NIKO_SPRITES_2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1747
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_4
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1730
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_5
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1725
+        width: 144
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_6
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1728
+        width: 144
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_7
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1727
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1720
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_9
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1725
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_10
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1476
+        width: 129
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_11
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1525
+        width: 110
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_12
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1481
+        width: 109
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1134
+        width: 450
+        height: 213
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_22
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 707
+        width: 51
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_23
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 707
+        width: 78
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_24
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 707
+        width: 78
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_25
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 707
+        width: 78
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_26
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 707
+        width: 78
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_27
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 707
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_28
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 707
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_29
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 707
+        width: 78
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_30
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 707
+        width: 78
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_31
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 149
+        width: 1994
+        height: 446
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_32
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 73
+        width: 1997
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_30
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1747
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_31
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1747
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1747
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIKO_SPRITES_25
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 956
+        width: 760
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
