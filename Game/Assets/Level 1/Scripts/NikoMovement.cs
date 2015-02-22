@@ -11,6 +11,8 @@ public class NikoMovement : MonoBehaviour {
 
 		Animator animator;
 	// neki neki
+	//se neki
+	//se neki druzga
 		bool dead = false;
 		float deathCooldown;
 
