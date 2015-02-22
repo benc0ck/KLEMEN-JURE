@@ -15,6 +15,7 @@ public class NikoMovement : MonoBehaviour {
 	//se neki druzga
 	//test
 	//neki
+	//hehe
 		bool dead = false;
 		float deathCooldown;
 
