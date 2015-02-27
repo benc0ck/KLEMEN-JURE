@@ -10,7 +10,7 @@ public class NikoMovement : MonoBehaviour {
 		bool didFlap = false;
 
 		Animator animator;
-	//neki neki
+	if()
 	//se neki
 	//se neki druzga
 	//test
