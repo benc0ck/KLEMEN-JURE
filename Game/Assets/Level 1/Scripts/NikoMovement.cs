@@ -10,12 +10,10 @@ public class NikoMovement : MonoBehaviour {
 		bool didFlap = false;
 
 		Animator animator;
-	//test1
-	//se neki
-	//se neki druzga
-	//test
-	//neki
-	//hehe
+	//nastudiral sem git
+	//uporabljam smart git
+	//priporocam enako
+	//ti pokazem magar jutri 
 		bool dead = false;
 		float deathCooldown;
 
