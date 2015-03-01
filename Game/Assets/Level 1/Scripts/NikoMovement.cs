@@ -11,8 +11,8 @@ public class NikoMovement : MonoBehaviour {
 
 		Animator animator;
 	//test
-	//uporabljam smart git
-	//priporocam enako
+	//sprememba
+	//kode
 	//ti pokazem magar jutri 
 		bool dead = false;
 		float deathCooldown;
