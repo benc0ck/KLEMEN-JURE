@@ -10,7 +10,7 @@ public class NikoMovement : MonoBehaviour {
 		bool didFlap = false;
 
 		Animator animator;
-	//nastudiral sem git
+	//test
 	//uporabljam smart git
 	//priporocam enako
 	//ti pokazem magar jutri 

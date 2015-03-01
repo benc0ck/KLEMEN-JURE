@@ -1,8 +1,8 @@
 ﻿<Properties GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Level 1\Scripts\NikoMovement.cs">
     <Files>
-      <File FileName="Assets\Level 1\Scripts\NikoMovement.cs" Line="18" Column="8" />
+      <File FileName="Assets\Level 1\Scripts\NikoMovement.cs" Line="16" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
