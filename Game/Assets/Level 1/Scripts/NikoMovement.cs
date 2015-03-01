@@ -11,7 +11,7 @@ public class NikoMovement : MonoBehaviour {
 
 		Animator animator;
 	//test
-	//sprememba
+	//sprememba2
 	//kode
 	//ti pokazem magar jutri 
 		bool dead = false;
